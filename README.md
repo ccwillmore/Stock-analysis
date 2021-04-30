@@ -47,7 +47,7 @@ After refactoring the code is significantly faster.
 
 ![refactored 2018 performance](resources/VBA_Challenge_2018.png)  
   
-![refactored 2017 performance](VBA_Challenge_2017.png)  
+![refactored 2017 performance](resources/VBA_Challenge_2017.png)  
   
 ## Summary  
   
